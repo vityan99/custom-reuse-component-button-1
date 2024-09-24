@@ -1,0 +1,14 @@
+.content {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  gap: 50px;
+  padding: 50px;
+}
+
+.content__line {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
